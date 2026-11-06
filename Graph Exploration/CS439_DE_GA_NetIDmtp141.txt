@@ -1,0 +1,14 @@
+CS439 DE_GA - NetID: mtp141
+
+Libraries (modules) used:
+- networkx
+- numpy
+- pandas
+- plotly (plotly.express)
+- scikit-learn (sklearn.linear_model.LogisticRegression, sklearn.preprocessing.StandardScaler, sklearn.pipeline.make_pipeline)
+- itertools (combinations)
+- pickle
+- graph_client (provided helper: get_graph)
+
+Credits / Discussion:
+- None
