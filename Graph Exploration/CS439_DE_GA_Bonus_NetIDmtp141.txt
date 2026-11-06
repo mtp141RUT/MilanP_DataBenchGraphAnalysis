@@ -3,7 +3,7 @@ CS439 DE_GA Bonus - NetID: mtp141
 Maximum clique size: 33
 
 Vertex IDs in the maximum clique:
-[250, 163, 370, 372, 259, 384, 434, 424, 129, 178, 416, 118, 179, 369, 343, 16, 659, 932, 709, 458, 971, 556, 461, 685, 560, 689, 945, 980, 820, 601, 698, 533, 695]
+[274, 71, 348, 135, 385, 246, 319, 410, 252, 273, 148, 17, 66, 343, 232, 376, 512, 768, 480, 897, 546, 994, 923, 678, 808, 841, 971, 1003, 685, 466, 891, 540, 821]
 
 Vertex labels in the maximum clique:
-['mutton, popp with wine', 'fried ducks or teal', 'soft ginger cookies', 'soppor - clear broth soup', 'ortunga, frufwad', 'splattering-walling', 'wild strawberry jelly', 'to dye wool yellow on cotton and linen', 'dried green peas, to fopa', 'glazed bread', 'thin fluffy pancakes', 'creamed egg custard in a dish', 'godrån', 'soft filling in small waffle cups', 'shellac varnish, for finishing', 'aj wört', 'fruity', 'strawberry', 'humus', 'amber', 'tutti frutti', 'cherry', 'ammonia', 'guaiacol', 'cinnamic', 'hard yolk', 'tallow', 'vanillin', 'paint', 'crushedbug', 'herb', 'candy', 'heather']
+['pickled spanish onion', 'braised turnip roots', 'silk pudding with potatoes', 'eel, stewed', 'spotted hare', 'mushrooms for pickling', 'rolled pork offal', 'tarflig nisgrynskaka', 'norfra cumin bread', 'pickled mirabelles', 'farfligafte apple cake', 'almond milk', 'boiled eggs', 'shellac varnish, for finishing', 'lost eggs', 'sour porridge of potato starch', 'brandy', 'metal', 'banana', 'rubbery', 'cat-urine', 'wax', 'soy', 'gravy', 'onion', 'phenolic', 'tutti frutti', 'wine', 'guaiacol', 'anisic', 'rose oxide', 'carrot', 'papaya']
